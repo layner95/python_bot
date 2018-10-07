@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ed36231-c346-4b54-b7a0-6bf5f2502788" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot_script/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,22 +22,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Procfile" value="1" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="331" />
+          <entry key="Procfile" value="6" />
+          <entry key="py" value="402" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="331" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="402" />
         </counts>
       </usages-collector>
     </session>
@@ -43,15 +49,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script.py">
+        <entry file="file://$PROJECT_DIR$/bot_script/script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="488">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1538923286357" expanded="true" signature="154:159" ph="..." />
-                <marker date="1538923286357" expanded="true" signature="256:261" ph="..." />
-                <marker date="1538923286357" expanded="true" signature="382:387" ph="..." />
               </folding>
             </state>
           </provider>
@@ -73,6 +76,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/script.py" />
+        <option value="$PROJECT_DIR$/bot_script/Procfile" />
       </list>
     </option>
   </component>
@@ -102,6 +106,11 @@
               <item name="python_bot" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_bot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_bot" type="462c0819:PsiDirectoryNode" />
+              <item name="bot_script" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,6 +122,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bot_script" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,13 +158,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24621212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24621212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3294702" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -173,15 +187,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/script.py">
+    <entry file="file://$PROJECT_DIR$/bot_script/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot_script/script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1538923286357" expanded="true" signature="154:159" ph="..." />
-            <marker date="1538923286357" expanded="true" signature="256:261" ph="..." />
-            <marker date="1538923286357" expanded="true" signature="382:387" ph="..." />
           </folding>
         </state>
       </provider>
